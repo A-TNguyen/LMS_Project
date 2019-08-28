@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackboard_Clone", "Blackboard_Clone.csproj", "{268AA953-4405-4B82-8C9A-3D8E45FFF1D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{268AA953-4405-4B82-8C9A-3D8E45FFF1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268AA953-4405-4B82-8C9A-3D8E45FFF1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268AA953-4405-4B82-8C9A-3D8E45FFF1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268AA953-4405-4B82-8C9A-3D8E45FFF1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58D168B0-E838-4F56-9596-1F4122F754FC}
+	EndGlobalSection
+EndGlobal
